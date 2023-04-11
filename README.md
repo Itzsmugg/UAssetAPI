@@ -3,6 +3,15 @@ A .NET library for reading and writing Unreal Engine 4 game assets.
 
 <img src="https://i.imgur.com/GZbr93m.png" align="center">
 
+
+## Import Dumper
+Recursively scans a selected folder for .Uasset files and dumps Imports from all Uassets in said folder (and sub-folders) to a CSV file
+Simply run by dragging and dropping folder containing Uassets onto import_exporter.exe
+Or run ```Import_exporter <path to directory>```
+to set engine version edit engineversion.txt
+Creates ```import_data.csv``` in program directory
+
+
 ## Compilation
 If you'd like to compile UAssetAPI for yourself, read on:
 
