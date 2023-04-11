@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UAssetAPI.Tests", "UAssetAP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UAssetAPI.Benchmark", "UAssetAPI.Benchmark\UAssetAPI.Benchmark.csproj", "{A74E7E85-1797-477C-AEC1-583AE7D109D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "import_exporter", "import_exporter\import_exporter.csproj", "{7623DB2E-17C6-491F-A724-95C664FDD911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,14 @@ Global
 		{A74E7E85-1797-477C-AEC1-583AE7D109D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A74E7E85-1797-477C-AEC1-583AE7D109D0}.Release|x64.ActiveCfg = Release|Any CPU
 		{A74E7E85-1797-477C-AEC1-583AE7D109D0}.Release|x64.Build.0 = Release|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Debug|x64.Build.0 = Debug|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Release|x64.ActiveCfg = Release|Any CPU
+		{7623DB2E-17C6-491F-A724-95C664FDD911}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

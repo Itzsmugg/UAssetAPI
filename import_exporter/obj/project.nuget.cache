@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7Ko4DtyaFX+t5vsIdyhc9R3Gd1kfT+/0vVCZzIVS5LKCvtBrbR6avti4itTcKVD8i9WRnJI+Fz80wYz+mL/Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kayli\\Downloads\\UAssetAPI-master\\UAssetAPI-master\\import_exporter\\import_exporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayli\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\kayli\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
